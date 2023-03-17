@@ -24,3 +24,11 @@ let user_ages = [10, 12, 24, 45, 67];
 let first_user_name = usernames[0];
 let last_user_name = usernames[4];
 let middle_user_age = user_ages[2];
+
+
+usernames.push(`ola`);
+user_ages.push(50);
+
+let last_user_age = user_ages.pop();
+
+
