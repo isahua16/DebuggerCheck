@@ -31,4 +31,6 @@ user_ages.push(50);
 
 let last_user_age = user_ages.pop();
 
+let array_length = usernames.length;
 
+let username_fun = usernames[usernames.length-1];
